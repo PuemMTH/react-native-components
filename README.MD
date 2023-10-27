@@ -1,3 +1,10 @@
+# Condition using
+### ได้โปรด star Repo ให้ด้วยครับ ขอบคุณครับ
+
+## Setup React Native
+```bash
+npx create-react-native app_name
+```
 ## Install package default
 ```bash
 npm install @react-navigation/bottom-tabs @react-navigation/native @react-navigation/native-stack axios expo-status-bar react-native-safe-area-context react-native-screens
