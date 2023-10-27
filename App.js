@@ -6,13 +6,13 @@ const Tab = createBottomTabNavigator();
 
 export default function App() {
   return (
-    <NavigationContainer>
-      <Tab.Navigator>
-        <Tab.Screen name="Home" component={HomeScreen} />
-        <Tab.Screen name="Right" component={RightScreen} />
-        <Tab.Screen name="Left" component={LeftScreen} />
-      </Tab.Navigator>
-    </NavigationContainer>
+      <NavigationContainer>
+        <Tab.Navigator>
+          <Tab.Screen name="Home" component={HomeScreen} />
+          <Tab.Screen name="Right" component={RightScreen} />
+          <Tab.Screen name="Left" component={LeftScreen} />
+        </Tab.Navigator>
+      </NavigationContainer>
   );
 }
 

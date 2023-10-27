@@ -1,6 +1,14 @@
 # Condition using
 ### ได้โปรด star Repo ให้ด้วยครับ ขอบคุณครับ
 
+<!-- Show Link  -->
+## Other Link
+- [React Native Project](https://github.com/PuemMTH/PRAEW_MAY_PUEM_BAMBOO.git)
+- [React Native Memo](https://github.com/PuemMTH/memo-mobile.git)
+- [React Native Component](https://github.com/PuemMTH/MobileComponent.git)
+- [React Native AI](https://github.com/PuemMTH/MobileWork.git)
+
+
 ## Setup React Native
 ```bash
 npx create-react-native app_name

@@ -1,0 +1,72 @@
+[
+	{
+		"_id": "63943fba3d16777bb4d26090",
+		"sub_id": "01418344",
+		"subject_name": "Mobile Application and Development"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26100",
+		"sub_id": "01418331",
+		"subject_name": "Operating Systems"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26111",
+		"sub_id": "014118321",
+		"subject_name": "System Analysis and Design"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26121",
+		"sub_id": "01418344",
+		"subject_name": "Intellectual Properties"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26141",
+		"sub_id": "02032303",
+		"subject_name": "การเกษตรกับคุณภาพชีวิตที่ดี"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26061",
+		"sub_id": "01009102",
+		"subject_name": "มนุษย์และทรัพยากรธรรมชาติ"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26064",
+		"sub_id": "01101101",
+		"subject_name": "เศรษฐศาสตร์ทั่วไปในกระแสโลกาภิวัตน์"
+	},
+	{
+		"_id": "63943fba3d16777bb4d2606f",
+		"sub_id": "01174231",
+		"subject_name": "นันทนาการเบื้องต้น"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26071",
+		"sub_id": "01175111",
+		"subject_name": "กรีฑาลู่-ลาน เพื่อสุขภาพ"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26072",
+		"sub_id": "01175112",
+		"subject_name": "แบดมินตันเพื่อสุขภาพ"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26076",
+		"sub_id": "01175114",
+		"subject_name": "เทเบิลเทนนิสเพื่อสุขภาพ"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26077",
+		"sub_id": "01175114",
+		"subject_name": "เทเบิลเทนนิสเพื่อสุขภาพ"
+	},
+	{
+		"_id": "63943fba3d16777bb4d2607f",
+		"sub_id": "01175121",
+		"subject_name": "บาสเกตบอลเพื่อสุขภาพ"
+	},
+	{
+		"_id": "63943fba3d16777bb4d26084",
+		"sub_id": "01175123",
+		"subject_name": "วอลเลย์บอลเพื่อสุขภาพ"
+	}
+]
